@@ -1,1 +1,6 @@
-{}
+{
+    "EUR/AUD": {
+        "status": "CONFIRMED",
+        "bias": "BULLISH"
+    }
+}
